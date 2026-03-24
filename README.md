@@ -3,12 +3,11 @@
   <pre style="text-align:center; margin:0;">dgd</pre>
   <br>
 </div>
-
-- jeje
-
-- jeje
-  
-- jeje 
+<ul style="list-style-type: circle; font-weight: 12px;">
+  <li>Jeje</li>
+  <li>Jeje</li>
+  <li>Jeje</li>
+</ul>
 <div align="center">
   <hr style="border: 0; height: 1px; background-color: gray; transform: scaleY(0.5);">
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
