@@ -3,7 +3,7 @@
   <pre style="text-align:center; margin:0;">dgd</pre>
   <br>
 </div>
-<ul style="list-style-type: square; font-weight: 10px;">
+<ul style="list-style-type: none; font-size: 10px;">
   <li>Jeje</li>
   <li>Jeje</li>
   <li>Jeje</li>
