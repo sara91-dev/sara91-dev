@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=440&size=50&duration=4000&pause=300&color=945AA7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=130&lines=%E2%9C%A9+rgf+dgd+ddg+%E2%9C%A9" style="display:block; margin:auto; width=70%" />
   <pre style="text-align:center; margin:0;">dgd</pre>
   <br>
-  <hr style="border: 0; height: 1px; background-color: gray; transform: scaleY(0.5);">
 </div>
 - jeje
 - jeje
