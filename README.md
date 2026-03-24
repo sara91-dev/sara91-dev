@@ -5,7 +5,7 @@
 </div>
 <div>
   <ul style="list-style-type: none; font-size: 10px; color: #945AA7;">
-    <li>Jeje</li>
+    <li style="list-style-type: none; font-size: 10px; color: #945AA7;">Jeje</li>
     <li>Jeje</li>
     <li>Jeje</li>
   </ul>
