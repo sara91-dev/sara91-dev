@@ -5,10 +5,15 @@
 
 <pre>
     🎓 DAM Graduate | Junior Software Developer.
-    💻 Interested in web development, software development and creative projects.
-    🌱 Always learning, experimenting and looking for new things to build.
-    ✨ I enjoy turning ideas into projects and paying attention to the little details.
+    💻 Interested in web development, software development and 
+    creative projects.
+    🌱 Always learning, experimenting and looking for new 
+    things to build.
+    ✨ I enjoy turning ideas into projects and paying attention 
+    to the little details.
 </pre>
+
+<br><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
