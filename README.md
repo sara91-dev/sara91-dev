@@ -4,18 +4,11 @@
 <br><br>
 
 <pre>
-    🎓 DAM Graduate | Junior Software Developer
-    💻 Interested in web development, software development and 
-    creative projects.
-    🌱 Always learning, experimenting and looking for new things 
-    to build.
-    ✨ I enjoy turning ideas into projects and paying attention 
-    to the little details.
+    🎓 DAM Graduate | Junior Software Developer.
+    💻 Interested in web development, software development and creative projects.
+    🌱 Always learning, experimenting and looking for new things to build.
+    ✨ I enjoy turning ideas into projects and paying attention to the little details.
 </pre>
-
-
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
@@ -32,5 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
 </div>
+
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 </div>
