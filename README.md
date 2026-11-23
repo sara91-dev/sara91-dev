@@ -4,9 +4,12 @@
 <br><br>
 <pre>
     🎓 DAM Graduate | Junior Software Developer
-    💻 Interested in web development, software development and creative projects.
-    🌱 Always learning, experimenting and looking for new things to build.
-    ✨ I enjoy turning ideas into projects and paying attention to the little details.
+    💻 Interested in web development, software development and 
+    creative projects.
+    🌱 Always learning, experimenting and looking for new things 
+    to build.
+    ✨ I enjoy turning ideas into projects and paying attention 
+    to the little details.
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
