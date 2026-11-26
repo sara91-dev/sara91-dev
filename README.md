@@ -1,17 +1,29 @@
+
 <div align="center">
 <img src="https://github.com/sara91-dev/recursos/blob/main/img_conejo_dormido.jpeg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=519EE5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=%E2%9C%A9+Sara+Ligia+Bogdan+%E2%9C%A9" width="70%" />
 <br><br>
 
+<table>
+<tr>
+<td align="center" valign="middle" width="100">
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="80"/>
+</td>
+<td>
+
 <pre>
-    🎓 DAM Graduate | Junior Software Developer.
-    💻 Interested in web development, software development and 
-    creative projects.
-    🌱 Always learning, experimenting and looking for new 
-    things to build.
-    ✨ I enjoy turning ideas into projects and paying attention 
-    to the little details.
+🎓 DAM Graduate | Junior Software Developer.
+💻 Interested in web development, software development and
+   creative projects.
+🌱 Always learning, experimenting and looking for new
+   things to build.
+✨ I enjoy turning ideas into projects and paying attention
+   to the little details.
 </pre>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
@@ -30,6 +42,4 @@
 </div>
 
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" align="left" />
-
 </div>
