@@ -15,10 +15,10 @@
 🎓 DAM Graduate | Junior Software Developer.
 💻 Interested in web development, software development and
    creative projects.
-🌱 Always learning, experimenting and looking for new
-   things to build.
-✨ I enjoy turning ideas into projects and paying attention
-   to the little details.
+🌱 Curious by nature, always exploring new technologies and 
+   possibilities.
+✨ I enjoy bringing ideas to life, experimenting along the way and 
+   turning little details into something meaningful.
 </pre>
 
 </td>
