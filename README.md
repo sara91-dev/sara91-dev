@@ -17,8 +17,8 @@
    creative projects.
 🌱 Curious by nature, always exploring new technologies and 
    possibilities.
-✨ I enjoy bringing ideas to life, experimenting along the way and 
-   turning little details into something meaningful.
+✨ I enjoy bringing ideas to life, experimenting along 
+   the way and turning little details into something meaningful.
 </pre>
 
 </td>
